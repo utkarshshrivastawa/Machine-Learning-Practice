@@ -69,7 +69,7 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 ## Chapter : Functions 
 1. Function Definition: A function is described as a reusable block of code designed to perform a specific task. The text emphasizes the utility of functions in making programs more organized and efficient by allowing code reuse.
 
-. Factorial Calculation Example: Initially, the process of calculating a factorial is implemented directly in the program using a loop and conditional statements. The user is prompted to enter a number, and the program calculates the factorial of that number, handling the special case where the factorial of 0 is defined as 1.
+2. Factorial Calculation Example: Initially, the process of calculating a factorial is implemented directly in the program using a loop and conditional statements. The user is prompted to enter a number, and the program calculates the factorial of that number, handling the special case where the factorial of 0 is defined as 1.
 
 3. Creating a Function: To demonstrate creating a function, the factorial calculation code is encapsulated within a function named factorial_value. This function takes a single argument, num, and returns the factorial of num. It follows the same logic as the direct implementation but is now more versatile and reusable.
 
