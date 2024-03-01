@@ -66,7 +66,7 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 
 6. Error Handling in Loops: Briefly touches on resolving a TypeError caused by reassigning the print function to an integer, showing the importance of preserving built-in function names in Python.
 
-## Chapter : Functions 
+## Chapter 6 : Functions 
 1. Function Definition: A function is described as a reusable block of code designed to perform a specific task. The text emphasizes the utility of functions in making programs more organized and efficient by allowing code reuse.
 
 2. Factorial Calculation Example: Initially, the process of calculating a factorial is implemented directly in the program using a loop and conditional statements. The user is prompted to enter a number, and the program calculates the factorial of that number, handling the special case where the factorial of 0 is defined as 1.
@@ -75,7 +75,7 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 
 4 Function Usage: The text showcases how to call the newly created factorial_value function with different arguments to calculate and print the factorials of 5 and 10, demonstrating the function's reusability and convenience for performing the same task with different inputs.
 
-## Chapter 6 : Numpy 
+## Chapter 7 : Numpy 
 1. Introduction to NumPy: Describes NumPy as essential for efficient numerical computations in Python, highlighting its support for large, multidimensional arrays and an extensive library of mathematical functions.
 
 2. Advantages of NumPy Arrays: Outlines the benefits such as supporting numerous mathematical operations and faster operations compared to standard Python lists.
@@ -91,7 +91,7 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 7. Array Manipulation: Explores manipulating array structure through operations like transpose and reshape, demonstrating NumPy's flexibility in adjusting array dimensions for various computational needs.
 
    
-## Chapter 7 : Pandas
+## Chapter 8 : Pandas
 1. Introduction to Pandas: Describes Pandas as a Python library essential for data manipulation and analysis, highlighting its capability to handle tabular data through DataFrames.
 2. Creating Pandas DataFrame: Illustrates the creation of DataFrames, including importing the Iris dataset from the sklearn library and converting it into a structured DataFrame with labeled axes for rows and columns.
 3. Importing Data: Demonstrates how to load data into a Pandas DataFrame from various sources, such as CSV files and Excel spreadsheets, showcasing Pandas' versatility in handling different data formats.
