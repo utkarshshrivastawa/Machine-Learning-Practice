@@ -8,11 +8,11 @@ Applications of AI: Highlighted applications include healthcare, autonomous cars
 
 3. Machine Learning: Presented as a technique under AI, where machines learn from data autonomously without explicit programming. It's categorized into supervised learning, unsupervised learning, and reinforcement learning.
 
-  1. Supervised Learning: The model learns from labeled data, focusing on classification (predicting discrete values) and regression (predicting continuous values), with examples of algorithms used for each.
+  a. Supervised Learning: The model learns from labeled data, focusing on classification (predicting discrete values) and regression (predicting continuous values), with examples of algorithms used for each.
 
-  2. Unsupervised Learning: The model learns from unlabeled data, involving tasks like clustering (grouping similar data points) and association (finding relationships between data points), along with examples of algorithms.
+  b. Unsupervised Learning: The model learns from unlabeled data, involving tasks like clustering (grouping similar data points) and association (finding relationships between data points), along with examples of algorithms.
 
-  3. Reinforcement Learning: Described as a method where an agent learns to make decisions by performing actions in an environment to maximize rewards, emphasizing the interaction between agents and their environment.
+  c. Reinforcement Learning: Described as a method where an agent learns to make decisions by performing actions in an environment to maximize rewards, emphasizing the interaction between agents and their environment.
   
 ## Chapter 2 :Python Basic 
 Machine Learning Mention: It briefly mentions "Machine Learning" to possibly indicate the context or the purpose of the Python code snippets, without going into specifics.
