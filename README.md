@@ -99,3 +99,10 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 5. Exploring DataFrame: Discusses methods to explore DataFrames, such as viewing the first and last rows, checking the shape, and obtaining information about the DataFrame structure and non-null values.
 6. Statistical Analysis: Introduces methods for performing statistical analysis on DataFrame columns, including calculating mean, standard deviation, minimum, and maximum values, and describes the describe() method for a summary of statistics.
 7. Correlation Analysis: Explains how to compute correlation coefficients between DataFrame columns to assess the linear relationship between variables, distinguishing between positive and negative correlations.
+
+## Chapter 9 : Matplotlib 
+1. Matplotlib Overview: A Python library for creating static, animated, and interactive visualizations, including plots like histograms, bar charts, and scatter plots.
+2. Plot Examples: Includes plotting simple sine and cosine functions, parabolic curves, and demonstrates the flexibility in visual representation (e.g., changing colors and markers).
+3. Graph Features: Showcases how to add titles, axis labels, and utilize the autopct parameter in pie charts for displaying percentage labels, enhancing readability.
+4. Advanced Plotting: Introduces 3D scatter plots, expanding visualization capabilities for complex datasets, and highlights the importance of Matplotlib in scientific and analytical applications.
+5. Visualization Variety: Demonstrates the versatility of Matplotlib through various plot types including line graphs, bar graphs, pie charts, scatter plots, and 3D scatter plots, catering to a wide range of data visualization needs.
