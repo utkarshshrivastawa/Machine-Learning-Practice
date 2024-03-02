@@ -106,3 +106,14 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 3. Graph Features: Showcases how to add titles, axis labels, and utilize the autopct parameter in pie charts for displaying percentage labels, enhancing readability.
 4. Advanced Plotting: Introduces 3D scatter plots, expanding visualization capabilities for complex datasets, and highlights the importance of Matplotlib in scientific and analytical applications.
 5. Visualization Variety: Demonstrates the versatility of Matplotlib through various plot types including line graphs, bar graphs, pie charts, scatter plots, and 3D scatter plots, catering to a wide range of data visualization needs.
+## Chapter 10 : Seaborn
+1. Introduction to Seaborn:Seaborn is an advanced data visualization library built on top of Matplotlib. It offers a high-level interface for creating attractive and informative statistical graphics.
+2. Visualizing Relationships:Demonstrated how to visualize relationships between two variables using sns.relplot(). The example used the "tips" dataset to plot total bill vs. tip, categorized by time, smoker status, and size.
+3. Setting Themes:Showcased the use of sns.set_theme() to apply default themes for enhancing the visual appeal of plots.
+4. Scatter Plots:Illustrated the use of sns.scatterplot() to create scatter plots. Two examples from the "iris" dataset were provided, plotting sepal length against petal length and petal width, colored by species.
+5. Count Plots:Explained the creation of count plots using sns.countplot(), with examples from the "titanic" dataset to visualize the distribution of passenger classes and survival status.
+6. Bar Charts:Demonstrated how to create bar charts with sns.barplot(), using the "titanic" dataset to compare survival rates across sexes and classes.
+7. Distribution Plots:Discussed the visualization of distributions using sns.displot() and noted the deprecation of sns.distplot(), advising on the transition to updated functions.
+8. Correlation Heatmaps:Showed how to visualize correlation matrices using sns.heatmap(). An example using the "iris" dataset highlighted the relationships between sepal length, sepal width, petal length, and petal width.
+9. Dataset Imports:Included examples of loading built-in datasets from Seaborn as well as loading the "iris" dataset from the sklearn library, demonstrating flexibility in data handling.
+10. Deprecated Functions Warning:Noted the deprecation warning for sns.distplot() and provided guidance on adapting code to use sns.displot() or sns.histplot() instead.
