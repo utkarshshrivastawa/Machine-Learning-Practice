@@ -117,3 +117,10 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 8. Correlation Heatmaps:Showed how to visualize correlation matrices using sns.heatmap(). An example using the "iris" dataset highlighted the relationships between sepal length, sepal width, petal length, and petal width.
 9. Dataset Imports:Included examples of loading built-in datasets from Seaborn as well as loading the "iris" dataset from the sklearn library, demonstrating flexibility in data handling.
 10. Deprecated Functions Warning:Noted the deprecation warning for sns.distplot() and provided guidance on adapting code to use sns.displot() or sns.histplot() instead.
+
+
+## Chapter 10 : Data Preprocessing  model
+1. Data Collection Sources: A brief overview of popular datasets available on platforms like Kaggle, UCI Machine Learning Repository, and Google Dataset Search for machine learning projects.
+2. Handling Missing Values: Strategies such as imputation, dropping, and using algorithms that support missing values to deal with incomplete datasets effectively.
+3. Feature Extraction from Text Data: Discusses techniques like Bag of Words and TF-IDF Vectorization for converting text into a format suitable for machine learning models.
+4. Standardization and Pre-processing: Emphasizes the importance of data standardization in numerical datasets to ensure uniformity and improve model performance.
