@@ -124,7 +124,9 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
 2. Handling Missing Values: Strategies such as imputation, dropping, and using algorithms that support missing values to deal with incomplete datasets effectively.
 3. Feature Extraction from Text Data: Discusses techniques like Bag of Words and TF-IDF Vectorization for converting text into a format suitable for machine learning models.
 4. Standardization and Pre-processing: Emphasizes the importance of data standardization in numerical datasets to ensure uniformity and improve model performance.
-## Chapter 11 : 
+
+   
+## Chapter 11 : Mathematics for machine learning
 1. Linear algebra is foundational in data science and machine learning, offering methods for representing and manipulating data. Here are key concepts and applications:
 
 1. Data Representation:
