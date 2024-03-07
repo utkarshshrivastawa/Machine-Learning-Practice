@@ -155,6 +155,42 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
     b.It's essential for optimization algorithms like gradient descent, used in training machine learning models.
     c. Weights and activations in neural networks are represented as matrices.
 ## Chapter 12 : Statistics for machine learning
+### Statistics Overview
+1. Definition: The science of collecting, analyzing, interpreting, and presenting data.
+2. Need: It acts as a tool for extracting information and knowledge from data.
+### Key Measures and Concepts
+1. Mean: The average of all values.
+2. Standard Deviation: Measures the spread of values from the mean.
+3. Range: The difference between the highest and lowest values.
+4. Correlation: Indicates the strength and direction of a relationship between variables but does not imply causation. It can be positive or negative.
+5. Causation: Indicates a cause-and-effect relationship between variables.
 
+### Descriptive vs. Inferential Statistics
+1. Descriptive Statistics: Used to describe the basic features of data, including measures like mean, median, mode, range, standard deviation, and variance.
+2. Inferential Statistics: Uses sample data to make inferences or predictions about a larger population.
+
+### Applications of Statistics
+Examples include Six Sigma, business analytics, weather forecasting, and clinical trials of medicines.
+### Types of Statistical Studies
+1. Sample Study: Focuses on a sample representing the total population.
+2. Observational Study: Data collection and analysis without intervention.
+3. Experimental Study: Conditions are controlled and manipulated by the experimenter.
+
+### Data Pre-processing with Central Tendencies
+Central tendencies (mean, median, mode) are crucial for handling missing values in a dataset, depending on the data distribution.
+### Measures of Variability
+Range, Variance, and Standard Deviation provide insights into the data's spread.
+### Percentiles and Quantiles
+Percentiles and Quantiles help understand the distribution of data within a dataset.
+### Hypothesis Testing
+1. Null Hypothesis (H0): Assumes no significant effect exists.
+2. Alternative Hypothesis (H1): Contradicts the null hypothesis, assuming a significant effect exists.
+### Loss Function
+Evaluates the performance of a machine learning algorithm by measuring the difference between predicted values and true values.
+### Probability and Distributions
+1. Random Variables: Numerical descriptions of the outcomes of random events, categorized into discrete and continuous.
+2. Probability Distribution: Describes how probabilities are distributed over the values of a random variable.
+3. Normal Distribution: Data is symmetrically distributed, with most values lying near the mean.
+4. Poisson Distribution: Measures the likelihood of a given number of events occurring in a fixed interval of time.
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
