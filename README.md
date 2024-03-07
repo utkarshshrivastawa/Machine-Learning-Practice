@@ -154,6 +154,7 @@ Dictionaries: Mutable collections of key-value pairs, allowing multiple data typ
     a.Linear algebra is crucial for dimensionality reduction techniques like PCA (Principal Component Analysis) and SVD (Singular Value Decomposition).
     b.It's essential for optimization algorithms like gradient descent, used in training machine learning models.
     c. Weights and activations in neural networks are represented as matrices.
+## Chapter 12 : Statistics for machine learning
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
