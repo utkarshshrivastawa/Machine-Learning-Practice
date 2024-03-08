@@ -193,6 +193,31 @@ Evaluates the performance of a machine learning algorithm by measuring the diffe
 3. Normal Distribution: Data is symmetrically distributed, with most values lying near the mean.
 4. Poisson Distribution: Measures the likelihood of a given number of events occurring in a fixed interval of time.
 
-### Chapter 13 : Machine Learning Model
+## Chapter 13 : Machine Learning Model
+### Machine Learning Model
+A function that identifies the relationship between features and the target variable.
+### Model Selection
+The process of choosing the most appropriate model based on the dataset, task, and model nature.
+Model selection criteria include type of data (e.g., images, text, numerical data) and the task at hand (classification, regression, clustering).
+### Overfitting
+When a model learns too much detail from the training data, including noise, leading to poor performance on unseen data.
+Prevented by using more data, simplifying the model, early stopping, regularization, and dropouts.
+### Underfitting
+Occurs when a model cannot capture the underlying trend of the data, leading to low performance on both training and unseen data.
+Prevented by choosing the correct model, increasing model complexity, and adding more parameters.
+### Bias-Variance Tradeoff
+Bias: The error from erroneous assumptions in the learning algorithm.
+Variance: The error from sensitivity to small fluctuations in the training set.
+Achieving a good tradeoff involves techniques like model selection, regularization, dimensionality reduction, and ensemble methods.
+### Loss Function
+Evaluates how well the model fits the dataset.
+Types of loss functions include Cross Entropy Loss, Squared Error Loss, and KL Divergence.
+### Model Evaluation
+Involves measuring the model's performance using metrics like accuracy score for classification tasks and mean absolute error for regression tasks.
+### Parameters and Hyperparameters
+Model Parameters: Internal configuration variables that the model learns from the training data (e.g., weights and biases).
+Hyperparameters: External configuration settings that control the learning process (e.g., learning rate, number of epochs).
+### SOptimization Techniques
+Gradient Descent: A method to adjust parameters iteratively to minimize a loss function, aiming for the best parameters that result in the minimum loss.
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
