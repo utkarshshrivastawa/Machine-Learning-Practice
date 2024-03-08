@@ -192,5 +192,7 @@ Evaluates the performance of a machine learning algorithm by measuring the diffe
 2. Probability Distribution: Describes how probabilities are distributed over the values of a random variable.
 3. Normal Distribution: Data is symmetrically distributed, with most values lying near the mean.
 4. Poisson Distribution: Measures the likelihood of a given number of events occurring in a fixed interval of time.
+
+### Chapter 13 : Machine Learning Model
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
