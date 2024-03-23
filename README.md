@@ -219,5 +219,9 @@ Model Parameters: Internal configuration variables that the model learns from th
 Hyperparameters: External configuration settings that control the learning process (e.g., learning rate, number of epochs).
 ### SOptimization Techniques
 Gradient Descent: A method to adjust parameters iteratively to minimize a loss function, aiming for the best parameters that result in the minimum loss.
+
+## Cross Validation , Hyperparameter Tuning 
+Discussed the types and their corresponding code base.
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
