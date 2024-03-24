@@ -223,5 +223,7 @@ Gradient Descent: A method to adjust parameters iteratively to minimize a loss f
 ## Cross Validation , Hyperparameter Tuning 
 Discussed the types and their corresponding code base.
 
+## Model Selection
+In this , how to select the model 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
