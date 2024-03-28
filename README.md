@@ -225,5 +225,8 @@ Discussed the types and their corresponding code base.
 
 ## Model Selection
 In this , how to select the model 
+
+## Model Evaluation 
+In this , Different method for model valuation Accuracy score , confussion metrix , Precision , Recall , F1score 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
